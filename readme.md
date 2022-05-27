@@ -19,5 +19,6 @@
 
 - Refactor, this is not an easy to read code. I need to seperate the method into seperate methods, and adjust the structure.
 - User input word - had to remove due to testing difficulty. Will reintroduce once I can successfully test it. 
-- Text output  - similarly, struggling to test this. 
+- Text output  - similarly, struggling to test this.
+- Do additional task: given a sentence input, find the longest palindrome in it. 
 
